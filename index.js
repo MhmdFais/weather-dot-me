@@ -16,7 +16,7 @@ function getTheLocationFromUser() {
 
 async function fetchTheWeather(userLocation) {
   const response = await fetch(
-    `http://api.weatherapi.com/v1/forecast.json?key=89754c20c1594d7894434505240706&q=${userLocation}`
+    `https://api.weatherapi.com/v1/forecast.json?key=89754c20c1594d7894434505240706&q=${userLocation}`
   );
   if (response.status === 400) {
     displayError();
