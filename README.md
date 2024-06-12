@@ -4,7 +4,7 @@ This is a simple weather app that uses the OpenWeatherMap API to get the weather
 
 ## Live Demo
 
-[Live Demo Link](https://mhmdfais.github.io/Weather-App/)
+[Live Demo Link](https://mhmdfais.github.io/weather-dot-me/)
 
 ## Screenshots
 
