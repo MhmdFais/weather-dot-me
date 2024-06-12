@@ -8,6 +8,9 @@ This is a simple weather app that uses the OpenWeatherMap API to get the weather
 
 ## Screenshots
 
+![image](https://github.com/MhmdFais/weather-dot-me/assets/117585798/68d0ad79-7309-4708-9ac3-b1ce7d115ac0)
+
+
 ## Built With
 
 - HTML
