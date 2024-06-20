@@ -10,7 +10,6 @@ This is a simple weather app that uses the OpenWeatherMap API to get the weather
 
 ![image](https://github.com/MhmdFais/weather-dot-me/assets/117585798/68d0ad79-7309-4708-9ac3-b1ce7d115ac0)
 
-
 ## Built With
 
 - HTML
@@ -29,6 +28,18 @@ To get a local copy up and running follow these simple example steps.
 
 - Clone the repository
 - Open the `index.html` file in your browser
+
+### Usage
+
+- Enter the name of the city you want to get the weather data for
+- Click the search button
+- The app will display the weather data for the city you entered
+
+## Future Features
+
+- Add a feature to get the user's location and display the weather data for that location
+- Add a feature to display the weather data for the next 7 days
+- Add a feature to display the weather data for multiple cities
 
 ## Author
 
